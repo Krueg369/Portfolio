@@ -1,3 +1,7 @@
+"""
+This program simulates a 2 Dimensional Ising Model using the Monte carlo method supported by the Metropolis algorithim. 
+"""
+
 from numba import jit
 import numpy as np
 import matplotlib.pyplot as plt
