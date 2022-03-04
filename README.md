@@ -11,5 +11,9 @@ About Each Program:
   This project was completed as a lab for a computational physics course. The folder contains 3 files, Interpolation.py is the main program, Interpf.py is the         functions program, and Interp.pdf is the result of running the program. 
   The program is relatively simple, it finds the interpolation of a function and creates two   plots; One being a 4th degree interpolation and the other an 8th         degree interpolation.
   
+  2D_Ising.py:
+  This program was created for my final project in a computational physics course. The program uses the background physics of the ising model to create a simulation   using a monte carlo method supported by the metropolis algorithim. The purpose of the program is to reproduce the results of the magnetization vs. Temperature       relationship defined by the Ising model. 
+  
+  
   
 
