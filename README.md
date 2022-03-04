@@ -9,7 +9,7 @@ About Each Program:
   
   InterpLab:
   This project was completed as a lab for a computational physics course. The folder contains 3 files, Interpolation.py is the main program, Interpf.py is the         functions program, and Interp.pdf is the result of running the program. 
-  The program is relatively simple, it find the interpolation of a function and creates two   plots; One being a 4th degree interpolation and the other an 8th         degree interpolation.
+  The program is relatively simple, it finds the interpolation of a function and creates two   plots; One being a 4th degree interpolation and the other an 8th         degree interpolation.
   
   
 
