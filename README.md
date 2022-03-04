@@ -14,6 +14,8 @@ About Each Program:
   2D_Ising.py:
   This program was created for my final project in a computational physics course. The program uses the background physics of the ising model to create a simulation   using a monte carlo method supported by the metropolis algorithim. The purpose of the program is to reproduce the results of the magnetization vs. Temperature       relationship defined by the Ising model. 
   
+  Bool.C:
+  This is an older version of my undergraduate research project. I will eventually update this with the final version once it is completed. This program is written   in C++ and is run in the ROOT data analysis framework. The purpose of this program is to simulate incoming neutrinos on a neutrino detector. The detector is         modeled off of the MINOS far detector, it has an octagonal prism shape that is created in the prgram using plane definitions. A monte carlo method is utilized;   This  portion generates random points on a sphere each with directional vectors. The program then uses the parametric equation to determine whether the trajecotry of these randomly generated rays will hit the detector or not. The final version of this project finds the surface area of the detector as a function of angles  theta  and phi of the incoming ray.
   
   
 
