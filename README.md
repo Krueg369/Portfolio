@@ -1,6 +1,6 @@
 # Portfolio
-This repository compiles programs I've created in both C++ and Python. These projects range from physics research using C++ and the ROOT data analysis framework to simple projects done in python. The purpose of this respository is to display the skills I have developed in multiple languages. 
-
+This repository compiles a few programs I've created in both C++ and Python. These projects range from physics research using C++ and the ROOT data analysis framework to simple projects done in python. The purpose of this respository is to display the skills I have developed in multiple languages. 
+____________________________________________________________________________________________________________________________________________________________________
 About Each Program: 
 
   spatial.C:
